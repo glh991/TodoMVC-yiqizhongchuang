@@ -12,4 +12,4 @@
 * [Angular（刘嘉）](angular/README.md)
 * [React-Backbone（付金亮）](react-backbone/README.md)
     * [第一章 介绍](react-backbone/1.md)
-        * [第一章 第一节](react-backbone/1-1.md)
+        * [第一章 第一节](react-backbone/1_1.md)
