@@ -1,0 +1,13 @@
+{
+    "root":"./content",
+    
+    "plugins": [
+      "editlink"
+    ],
+    "pluginsConfig": {
+      "editlink": {
+        "base": "https://github.com/TodoMvc/TodoMVC-yiqizhongchuang/edit/master/content",
+        "label": "编辑本页"
+      }
+    }
+}
