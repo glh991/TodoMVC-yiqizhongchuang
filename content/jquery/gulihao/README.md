@@ -1,1 +1,1 @@
-## 顾力通的jQuery
+## 顾力豪的jQuery
